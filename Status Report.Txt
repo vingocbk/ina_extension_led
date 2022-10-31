@@ -1,0 +1,31 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[ina_extension_led_pcb.GTL]
+   Generated File[ina_extension_led_pcb.GBL]
+   Generated File[ina_extension_led_pcb.GPB]
+   Generated File[ina_extension_led_pcb.GPT]
+   Generated File[ina_extension_led_pcb.GTO]
+   Generated File[ina_extension_led_pcb.GTP]
+   Generated File[ina_extension_led_pcb.GTS]
+   Generated File[ina_extension_led_pcb.GBS]
+   Generated File[ina_extension_led_pcb.GBP]
+   Generated File[ina_extension_led_pcb.GBO]
+   Generated File[ina_extension_led_pcb.GKO]
+   Generated File[ina_extension_led_pcb.GM3]
+   Generated File[ina_extension_led_pcb.GM7]
+   Generated File[ina_extension_led_pcb.GM13]
+   Generated File[ina_extension_led_pcb.GM15]
+   Generated File[ina_extension_led_pcb.GM30]
+   Generated File[ina_extension_led_pcb.GM32]
+   Generated File[ina_extension_led_pcb.GD1]
+   Generated File[ina_extension_led_pcb.GG1]
+   Generated File[ina_extension_led_pcb.RUL]
+   Generated File[ina_extension_led_pcb.EXTREP]
+   Generated File[ina_extension_led_pcb.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 9:15:40 AM On 8/8/2022
